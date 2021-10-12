@@ -1,7 +1,7 @@
 ### Olá, visitante! 👋
 
 - 🏍️ Nos dias atuais trabalho como Suporte Técnico no aplicativo FRETEC 
-- 🌱 Estudante de linguagens e sistemas
+- 🌱 Estudante de programação
 
 <div align="center">
   <a href="https://github.com/matheust21">
