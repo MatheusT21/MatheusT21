@@ -1,6 +1,6 @@
 ### Olá, visitante! 👋
 
-- 🌱 Estudante de desenvolvimento de sistemas full stack
+- 🌱 Estudante de Desenvolvimento Web Front End
 
 <div align="center">
   <a href="https://github.com/matheust21">
